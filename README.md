@@ -23,3 +23,4 @@ Sou Engenheira de Telecomunicações e estudante de **Análise de Dados**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheilaLiborio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/sheilaliborio/sheilaliborio/blob/output/github-contribution-grid-snake.svg)
