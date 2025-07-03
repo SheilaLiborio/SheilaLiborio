@@ -21,6 +21,6 @@ Sou Engenheira de Telecomunicações e estudante de **Análise de Dados**.
 
 ![Sheila's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheilaLiborio&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheilaLiborio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheilaLiborio&layout=compact&theme=radical&exclude_repo=Exercicio1-git-github,repo2&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/sheilaliborio/sheilaliborio/blob/output/github-contribution-grid-snake.svg)
