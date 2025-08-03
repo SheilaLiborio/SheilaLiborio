@@ -1,25 +1,47 @@
-## Olá, eu sou a Sheila!
+# Olá, eu sou a Sheila!
 
-Sou Engenheira de Telecomunicações e estudante de **Análise de Dados**. 
-- Apaixonada por transformar dados em insights que geram valor. 
-- Atualmente estudo **Python**, **SQL** e **NoSQL**, explorando diferentes tecnologias e boas práticas para análise de dados e banco de dados.
+Sou **Engenheira de Telecomunicações** com mais de 10 anos de experiência em ambientes operacionais e sustentação de sistemas. Recentemente, concluí minha formação em **Análise de Dados**, unindo minha bagagem técnica à paixão por transformar dados em **insights acionáveis que geram valor**.
 
-  - **Bibliotecas Python:**  
-    - Pandas 🐼  
-    - NumPy ➗  
-    - Matplotlib 📊  
-    - Seaborn 🌊
-    - Scikit-learn
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
+Atualmente, venho aprofundando meus conhecimentos em **Python, SQL e NoSQL**, explorando diferentes tecnologias, boas práticas de análise e modelagem de dados.
 
-## GitHub Stats
+---
 
-![Sheila's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheilaLiborio&show_icons=true&theme=radical)
+## 🧰 Tecnologias e Ferramentas que utilizo:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheilaLiborio&layout=compact&theme=radical&exclude_repo=Exercicio1-git-github,repo2&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+### 📌 Linguagens & Bancos de Dados:
+- Python 🐍
+- SQLite / SQL 
+- MySQL / NoSQL 
+
+### 📚 Bibliotecas Python:
+- Pandas 🐼
+- NumPy ➗
+- Matplotlib 📊
+- Seaborn 🌊
+- Scikit-learn 🤖
+
+### Ferramentas de Visualização:
+- Power BI
+- Google Sheets
+
+---
+
+## 🚀 Em andamento
+
+- Prática contínua com projetos reais
+- Aprofundamento em Machine Learning
+- Automação de processos com Python
+
+---
+
+## 💡 Objetivo
+
+Aplicar análise de dados para resolver problemas reais, otimizando processos e auxiliando na tomada de decisão em ambientes de negócio e tecnologia.
+
+---
+
+### 📫 Vamos conversar?
+
+[LinkedIn](https://www.linkedin.com/in/sheilaliborio)
 
 ![Snake animation](https://github.com/sheilaliborio/sheilaliborio/blob/output/github-contribution-grid-snake.svg)
