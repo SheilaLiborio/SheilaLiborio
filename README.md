@@ -6,7 +6,7 @@ Atualmente, venho aprofundando meus conhecimentos em **Python, SQL e NoSQL**, ex
 
 ---
 
-## 🧰 Tecnologias e Ferramentas que utilizo:
+## 🧰 Tecnologias e Ferramentas:
 
 ### 📌 Linguagens & Bancos de Dados:
 - Python 🐍
