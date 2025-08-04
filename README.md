@@ -26,14 +26,6 @@ Atualmente, venho aprofundando meus conhecimentos em **Python, SQL e NoSQL**, ex
 
 ---
 
-## 🚀 Em andamento
-
-- Prática contínua com projetos reais
-- Aprofundamento em Machine Learning
-- Automação de processos com Python
-
----
-
 ## 💡 Objetivo
 
 Aplicar análise de dados para resolver problemas reais, otimizando processos e auxiliando na tomada de decisão em ambientes de negócio e tecnologia.
